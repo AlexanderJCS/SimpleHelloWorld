@@ -5,7 +5,7 @@ public class PrinterBuilderFactorySingleton {
 
     private PrinterBuilderFactorySingleton() {}
 
-    public static PrinterBuilderFactorySingleton getInstance() {
+    public synchronized static PrinterBuilderFactorySingleton getInstance() {
         if (instance == null) {
             instance = new PrinterBuilderFactorySingleton();
         }
