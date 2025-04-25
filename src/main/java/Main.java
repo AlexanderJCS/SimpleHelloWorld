@@ -10,7 +10,7 @@ public class Main {
                 .setText(TextFactory.createHelloWorldText())
                 .build();
 
-        Printer printer = PrinterBuilderFactorySingleton.getBuilder()
+        Printer printer = PrinterBuilderFactorySingleton.getInstance().getBuilder()
                 .setAddNewline(true)
                 .setStream(System.out)
                 .setTextProvider(provider)
