@@ -5,7 +5,7 @@ A simple "Hello World" program in Java. This simple 200-line program (spanning 1
 
 * 🛠️ **Excellent design patterns:** Leverages builder, factory, and provider design patterns used by FAANG and other Fortune 500 companies.
 * 📦 **Modular:** Features generalized abstract classes and interfaces such as *Provider* and *Builder* to ensure maximum readability.
-* 🧽 **Squeaky-clean code:** Consistent, readable, and absolutely essential formatting.
+* 🧽 **Squeaky-clean code:** Consistent, readable, and absolutely superb formatting.
 * 🪤 **Extendable:** Successfully avoids the common mistake by novice programmers of writing a rigid, monolithic Hello World.
 * 🔥 **Blazingly fast:** Runs faster than I can time it with my stopwatch.
 
